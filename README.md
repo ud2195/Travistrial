@@ -1,3 +1,3 @@
 # Travistrial
 
-Trial repository for travis learning purpose
+repository for travis learning purpose
